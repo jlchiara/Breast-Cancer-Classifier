@@ -1,0 +1,55 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Log files
+*.log
+
+# Local configuration files
+*.env
+*.local
+
+# Data files
+data/
+*.csv
+*.tsv
+
+# Model files
+*.h5
+*.pkl
+*.joblib
+
+# Test coverage
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+
+# IDE/editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+Desktop.ini
